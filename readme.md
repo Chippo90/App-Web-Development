@@ -3,6 +3,7 @@
 A full stack e-commerce web application built with Node.js, Express, MongoDB, Docker, and PayPal Sandbox integration.
 
 **1. Features:**
+
 •	User registration and login.
 
 •	Role based access control.
